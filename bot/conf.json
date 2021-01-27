@@ -1,0 +1,20 @@
+{
+    "token": "",
+    "prefix": ".",
+    "owner": ["737664846245527603", "341516078867808267", "629779016533934080"],
+    "serw_wer": "787013042676170782",
+    "kanal_wer": "790589695632998431",
+    "kanal_zmien": "790589695632998431",
+    "kanal_nowy": "788863460233576468",
+    "serw_nowy": "788863484682174514",
+    "red": "#ff2929",
+    "green": "#14ff1c",
+    "weryf": ["737664846245527603", "341516078867808267", "629779016533934080", "678158862658043924"],
+    "link_do_bota": "https://discord.com/oauth2/authorize?client_id=794977265451925554&permissions=8&scope=bot",
+    "link_do_supportu": "http://flame-bot.pl/support",
+    "strona_www": "https://flame-bot.pl",
+    "noye": "#fcd303",
+    "logs": "795378549220835331",
+    "statusy": "790691465902030888",
+    "nowyserw": "796039967608012841"
+}

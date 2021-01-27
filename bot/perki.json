@@ -1,0 +1,23 @@
+{
+    "ADMINISTRATOR": "Administrator",
+    "VIEW_AUDIT_LOG": "Wyświetlanie dziennika zdarzeń",
+    "MANAGE_GUILD": "Zarządzanie serwerem",
+    "MANAGE_ROLES": "Zarządzanie rolami",
+    "MANAGE_CHANNELS": "Zarządzanie kanałami",
+    "KICK_MEMBERS": "Wyrzucanie członków",
+    "BAN_MEMBERS": "Banowanie członków",
+    "CREATE_INSTANT_INVITE": "Tworzenie zaproszenia",
+    "CHANGE_NICKNAME": "Zmiana pseudonimu",
+    "MANAGE_NICKNAMES": "Zarządzanie pseudonimami",
+    "MANAGE_EMOJIS": "Zarządzanie emoji",
+    "MANAGE_WEBHOOKS": "Zarządzanie webhookami",
+    "VIEW_CHANNEL": "Wyświetlanie kanału",
+    "SEND_MESSAGES": "Wysyłanie wiadomości",
+    "MANAGE_MESSAGES": "Zarządzanie wiadomościami",
+    "EMBED_LINKS": "Wyświetlanie podglądu linku",
+    "ATTACH_FILES": "Załączanie plików",
+    "READ_MESSAGE_HISTORY": "Czytanie historii czatu",
+    "MENTION_EVERYONE": "Zamieść wzmianke @everyone, @here oraz wszystkie role",
+    "USE_EXTERNAL_EMOJIS": "Używanie zewnętrznych emoji",
+    "ADD_REACTIONS": "Dodawanie reakcji"
+}
