@@ -1,8 +1,9 @@
 # Flame - Bot Reklamowy
 
-1. Zainstaluj <span style="color: #4aff47;">nodejs</span>
-2. Npm install
-3. Przejdź do /bot/conf.json oraz zmień token bota
-4. Node flame.js
+1. Zainstaluj ```javascript 
+2. NodeJS```
+3. Npm install
+4. Przejdź do /bot/conf.json oraz zmień token bota
+5. Node flame.js
 
 Code by Logus.
