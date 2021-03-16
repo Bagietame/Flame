@@ -1,6 +1,8 @@
-# Flame
-Elo npm i . 
-i node .
-token daj w conf.json i id w owners i weryf
+# Flame - Bot Reklamowy
 
-Szpadel by loguś 2021
+1. Zainstaluj <span style="color: #4aff47;">nodejs</span>
+2. Npm install
+3. Przejdź do /bot/conf.json oraz zmień token bota
+4. Node flame.js
+
+Code by Logus.
