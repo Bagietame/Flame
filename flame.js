@@ -37,6 +37,12 @@ client.on(`ready`, (message) => {
     .setTimestamp()
     channel.send(log_bot)
     
+    function run(command) {
+        command(
+            message
+        );
+    }
+    
     setInterval(() => {
         let st = db.get(`kolejka_s`)
         if (st == "tak") {
